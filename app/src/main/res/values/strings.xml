@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="change">Сhange</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="dialog_title">Title</string>
+    <string name="dialog_price">Price:</string>
+    <string name="open_list">Open List</string>
+    <string name="download_list">Download list</string>
+
+    <string name="download_xml">download xml...</string>
+    <string name="download_xml_completed">download xml  is completed</string>
+    <string name="connect_error">connect error!!!</string>
+
+</resources>
